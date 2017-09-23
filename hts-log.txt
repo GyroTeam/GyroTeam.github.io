@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Sep 2017 15:43:27 at http://homescapeshack.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*http://homescapeshack.site/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" http://homescapeshack.site/ -%L http://homescapeshack.site/ -O1 "C:\Users\shash\Desktop\Buisness\Plans\Homescapes\name" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*http://homescapeshack.site/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:43:28	Error: 	Could not include URL list: http://homescapeshack.site/
+15:44:38	Warning: 	File not parsed, looks like binary: homescapeshack.site/fonts/blender-pro-bold/blenderpro-bold-webfont.html
+15:44:38	Warning: 	Warning: store application/octet-stream without scan: C:/Users/shash/Desktop/Buisness/Plans/Homescapes/name/homescapeshack.site/fonts/blender-pro-bold/blenderpro-bold-webfont.html
+15:44:38	Warning: 	File not parsed, looks like binary: homescapeshack.site/fonts/blender-pro-book/blenderpro-book-webfont.html
+15:44:38	Warning: 	Warning: store application/octet-stream without scan: C:/Users/shash/Desktop/Buisness/Plans/Homescapes/name/homescapeshack.site/fonts/blender-pro-book/blenderpro-book-webfont.html
+15:44:39	Error: 	"Not Found" (404) at link homescapeshack.site/img/qwe.png (from homescapeshack.site/css/style.css)
+15:44:39	Warning: 	File not parsed, looks like binary: homescapeshack.site/fonts/fontawesome-webfont93e3_cdea90bb.html
+15:44:39	Warning: 	Warning: store application/octet-stream without scan: C:/Users/shash/Desktop/Buisness/Plans/Homescapes/name/homescapeshack.site/fonts/fontawesome-webfont93e3_cdea90bb.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 17 seconds : 45 links scanned, 43 files written (2442295 bytes overall) [2460846 bytes received at 31959 bytes/sec], 5.0 requests per connection
+(2 errors, 6 warnings, 0 messages)
